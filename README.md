@@ -12,6 +12,7 @@
 
 ## Introduction
 In this project, neighborhood-based collaborative filtering (NBCF) algorithms are implemented to predict movie ratings for users. NBCF encompasses two main types of algorithms: user-based (UBCF) and item-based (IBCF). These algorithms analyze user behavior and preferences to provide personalized movie recommendations. The goal is to develop a movie recommendation system that utilizes machine learning techniques to filter and predict users' film preferences based on their past choices.
+![cmp](https://github.com/erogluegemen/Movie-Recommendation-System/assets/30879498/3de18fa7-4077-4479-b43e-bf7ef6b97b0e)
 
 ## Features
 - Collaborative filtering algorithm based on the Manhattan distance similarity metric.
