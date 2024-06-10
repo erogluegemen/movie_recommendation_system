@@ -11,7 +11,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-This is a recommendation system implemented in C++. The system utilizes a collaborative filtering algorithm to provide personalized recommendations based on user ratings. The code is designed to read input data from text files and output the recommendations in a CSV file.
+In this project, neighborhood-based collaborative filtering (NBCF) algorithms are implemented to predict movie ratings for users. NBCF encompasses two main types of algorithms: user-based (UBCF) and item-based (IBCF). These algorithms analyze user behavior and preferences to provide personalized movie recommendations. The goal is to develop a movie recommendation system that utilizes machine learning techniques to filter and predict users' film preferences based on their past choices.
 
 ## Features
 - Collaborative filtering algorithm based on the Manhattan distance similarity metric.
